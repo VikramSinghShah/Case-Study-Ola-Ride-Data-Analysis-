@@ -1,18 +1,45 @@
 **Project Title :**
 **Ola Ride Data Analysis – Customer Behavior, Operational Insights & Ride Performance**
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+## 📊 Dashboard Snapshot:
+<p align="center">
+  <img src="./Dashboard SS/Ola Overall.png" width="700" alt="Summary Dashboard">
+  <br><i> 1. Ola Overall Dashboard </i>
+</p>
+<p align="center">
+  <img src="./Dashboard SS/Ola Vehicle.png" width="700" alt="Summary Dashboard">
+  <br><i> 2. Ola Vehicle Type Dashboard </i>
+</p>
+<p align="center">
+  <img src="./Dashboard SS/Ola Revenue.png" width="700" alt="Summary Dashboard">
+  <br><i> 3. Ola Revenue Dashboard </i>
+</p>
+<p align="center">
+  <img src="./Dashboard SS/Ola Cancellation.png" width="700" alt="Summary Dashboard">
+  <br><i> 4. Ola Cancellation Dashboard </i>
+</p>
+<p align="center">
+  <img src="./Dashboard SS/Ola Rating.png" width="700" alt="Summary Dashboard">
+  <br><i> 5. Ola Ratings Dashboard </i>
+</p>
+<p align="center">
+  <img src="./Dashboard SS/Ola Extra research.png" width="700" alt="Summary Dashboard">
+  <br><i> 5. Ola Extra Research Dashboard </i>
+</p>
+---------------------------------------------------------------------------------------------------------------------------
+
 **🧠 Objective :**
 
 To analyze Ola ride data for the month of July to uncover insights into ride performance, customer behavior, payment preferences, vehicle usage patterns, and potential operational inefficiencies like cancellations and incomplete rides.
 
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 **📁 Data Source :**
 
 **Excel File :** Ola July Data.xlsx
 
 Loaded and processed using: Python (Pandas) and Power BI
 
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 **🛠️ Tools & Technologies Used :**
 
 **Python** (Pandas)  Jupyter Notebook
@@ -21,7 +48,7 @@ Loaded and processed using: Python (Pandas) and Power BI
 
 **Excel** (for raw data cleaning and inspection)
 
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 **📊 Key Analysis Performed:**
 
 **Ride Completion Status:**
@@ -56,7 +83,7 @@ Average distance and rating for each vehicle type
 
 Most preferred vehicle types by customers
 
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 **📈 Visualizations Created in Power BI :**
 
 **Pie chart of :** Booking_Status breakdown And Cancelled Rides by Customer & Drivers
@@ -71,8 +98,7 @@ Ride Volume Overtime
 
 **Filters for :** date.
 
----------------------------------------------------------------------------------------------------------------------------------------
-**💡 Key Insights :**
+---------------------------------------------------------------------------------------------------------------------------**💡 Key Insights :**
 
 Prime Plus had the highest customer ratings.
 
@@ -82,8 +108,7 @@ The most common reason for incomplete rides was Customer Demand.
 
 Customers booking Auto had the shortest ride distances on average.
 
----------------------------------------------------------------------------------------------------------------------------------------
-**✅ Conclusion :**
+---------------------------------------------------------------------------------------------------------------------------**✅ Conclusion :**
 
 The analysis provided insights into ride trends, customer satisfaction, and operational issues. These findings can help optimize vehicle allocation, reduce cancellations, and improve customer experience. The interactive Power BI dashboard makes it easier for stakeholders to explore data dynamically.
 
